@@ -1,0 +1,990 @@
+[2026-01-08 10:38:53.841617] [p-9932] [t-14376] [info] powerrename logger is initialized
+[2026-01-08 10:38:53.846120] [p-9932] [t-14376] [debug] Starting PowerRename with 1 files from pipe/stdin
+[2026-01-08 10:38:53.879439] [p-9932] [t-14376] [info] Theme is now Light
+[2026-01-08 10:38:53.946970] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 10:38:53.947048] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 10:38:53.947061] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 10:38:53.947570] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 10:38:53.947578] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 10:38:53.947585] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 10:38:53.951750] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::CreateShellItemArrayFromPaths Enter
+[2026-01-08 10:38:53.969184] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::CreateShellItemArrayFromPaths Exit
+[2026-01-08 10:38:53.969224] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::EnumerateShellItems Enter
+[2026-01-08 10:38:54.084249] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::EnumerateShellItems Exit
+[2026-01-08 10:38:54.084601] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::SetHandlers Enter
+[2026-01-08 10:38:54.084696] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::SetHandlers Exit
+[2026-01-08 10:38:54.084712] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::ReadSettings Enter
+[2026-01-08 10:38:54.085562] [p-9932] [t-14376] [debug] ReadSettings with persistState = true
+[2026-01-08 10:38:54.085759] [p-9932] [t-14376] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 10:38:54.085770] [p-9932] [t-14376] [debug] Flag 8 set
+[2026-01-08 10:38:54.085780] [p-9932] [t-14376] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 10:38:54.085891] [p-9932] [t-14376] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 10:38:54.085900] [p-9932] [t-14376] [debug] Flag 128 reset
+[2026-01-08 10:38:54.085908] [p-9932] [t-14376] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 10:38:54.085915] [p-9932] [t-14376] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 10:38:54.085922] [p-9932] [t-14376] [debug] Flag 256 set
+[2026-01-08 10:38:54.085929] [p-9932] [t-14376] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 10:38:54.094088] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::ReadSettings Exit
+[2026-01-08 10:38:54.094140] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::InitAutoComplete Enter
+[2026-01-08 10:38:54.113071] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::InitAutoComplete Exit
+[2026-01-08 10:38:54.113113] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:38:54.113131] [p-9932] [t-14376] [debug] Forced renaming - false
+[2026-01-08 10:38:54.114161] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:38:54.150305] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:38:54.150498] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:38:54.150698] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:38:54.150973] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:38:54.151121] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:38:54.151197] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:38:54.995447] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:38:54.995655] [p-9932] [t-14376] [debug] Forced renaming - false
+[2026-01-08 10:38:54.995728] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:38:54.995913] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:38:54.995942] [p-9932] [t-14376] [debug] Forced renaming - false
+[2026-01-08 10:38:54.995968] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:38:56.767163] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:38:56.767326] [p-9932] [t-14376] [debug] Forced renaming - false
+[2026-01-08 10:38:56.767541] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:38:56.803873] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:38:56.805251] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:38:58.207811] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:38:58.208060] [p-9932] [t-14376] [debug] Forced renaming - false
+[2026-01-08 10:38:58.208422] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:38:58.251621] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:38:58.253074] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:38:58.403675] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:38:58.403737] [p-9932] [t-14376] [debug] Forced renaming - false
+[2026-01-08 10:38:58.403819] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:38:58.415167] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:38:58.419834] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:39:08.124886] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:39:08.125035] [p-9932] [t-14376] [debug] Forced renaming - false
+[2026-01-08 10:39:08.125328] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:39:08.138999] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:39:08.140759] [p-9932] [t-14376] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:40:33.466813] [p-25344] [t-10152] [info] powerrename logger is initialized
+[2026-01-08 10:40:33.467442] [p-25344] [t-10152] [debug] Starting PowerRename with 1 files from pipe/stdin
+[2026-01-08 10:40:33.492524] [p-25344] [t-10152] [info] Theme is now Light
+[2026-01-08 10:40:33.529737] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 10:40:33.529768] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 10:40:33.529773] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 10:40:33.529836] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 10:40:33.529843] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 10:40:33.529848] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 10:40:33.533596] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::CreateShellItemArrayFromPaths Enter
+[2026-01-08 10:40:33.554191] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::CreateShellItemArrayFromPaths Exit
+[2026-01-08 10:40:33.554232] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::EnumerateShellItems Enter
+[2026-01-08 10:40:33.555790] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::EnumerateShellItems Exit
+[2026-01-08 10:40:33.555922] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SetHandlers Enter
+[2026-01-08 10:40:33.555965] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SetHandlers Exit
+[2026-01-08 10:40:33.555971] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::ReadSettings Enter
+[2026-01-08 10:40:33.556807] [p-25344] [t-10152] [debug] ReadSettings with persistState = true
+[2026-01-08 10:40:33.557048] [p-25344] [t-10152] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 10:40:33.557069] [p-25344] [t-10152] [debug] Flag 8 set
+[2026-01-08 10:40:33.557087] [p-25344] [t-10152] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 10:40:33.557233] [p-25344] [t-10152] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 10:40:33.557251] [p-25344] [t-10152] [debug] Flag 128 reset
+[2026-01-08 10:40:33.557267] [p-25344] [t-10152] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 10:40:33.557283] [p-25344] [t-10152] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 10:40:33.557299] [p-25344] [t-10152] [debug] Flag 256 set
+[2026-01-08 10:40:33.557314] [p-25344] [t-10152] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 10:40:33.562787] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::ReadSettings Exit
+[2026-01-08 10:40:33.562848] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::InitAutoComplete Enter
+[2026-01-08 10:40:33.563320] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::InitAutoComplete Exit
+[2026-01-08 10:40:33.563340] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:40:33.563359] [p-25344] [t-10152] [debug] Forced renaming - false
+[2026-01-08 10:40:33.564328] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:40:33.602722] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:40:33.602895] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:40:33.603114] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:40:33.603200] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:40:33.603407] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:40:33.603534] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:40:34.054787] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:40:34.055117] [p-25344] [t-10152] [debug] Forced renaming - false
+[2026-01-08 10:40:34.055185] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:40:34.055328] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:40:34.055355] [p-25344] [t-10152] [debug] Forced renaming - false
+[2026-01-08 10:40:34.055382] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:40:36.231530] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:40:36.231729] [p-25344] [t-10152] [debug] Forced renaming - false
+[2026-01-08 10:40:36.231979] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:40:36.234606] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:40:36.235242] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:40:36.482194] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:40:36.482884] [p-25344] [t-10152] [debug] Forced renaming - false
+[2026-01-08 10:40:36.483147] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:40:36.485805] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:40:36.487140] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:40:37.101978] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:40:37.102159] [p-25344] [t-10152] [debug] Forced renaming - false
+[2026-01-08 10:40:37.102429] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:40:37.104918] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:40:37.105524] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:40:39.115225] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:40:39.115426] [p-25344] [t-10152] [debug] Forced renaming - false
+[2026-01-08 10:40:39.115751] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:40:39.118347] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:40:39.119144] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:40:39.862831] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:40:39.863022] [p-25344] [t-10152] [debug] Forced renaming - false
+[2026-01-08 10:40:39.863366] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:40:39.864726] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:40:39.865464] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:40:40.857180] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:40:40.857397] [p-25344] [t-10152] [debug] Forced renaming - false
+[2026-01-08 10:40:40.858074] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:40:40.862890] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:40:40.864080] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:40:42.824648] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::Rename Enter
+[2026-01-08 10:40:43.054097] [p-25344] [t-10152] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::OnRenameCompleted Enter
+[2026-01-08 10:40:43.054144] [p-25344] [t-10152] [debug] Renaming completed. Close UI window - false
+[2026-01-08 10:40:43.054150] [p-25344] [t-10152] [trace]     - winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:40:43.054155] [p-25344] [t-10152] [debug] Forced renaming - true
+[2026-01-08 10:40:43.054672] [p-25344] [t-10152] [trace]     - winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:40:43.054891] [p-25344] [t-10152] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::OnRenameCompleted Exit
+[2026-01-08 10:40:43.054899] [p-25344] [t-10152] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::WriteSettings Enter
+[2026-01-08 10:40:43.056421] [p-25344] [t-10152] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::WriteSettings Exit
+[2026-01-08 10:40:43.056436] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::Rename Exit
+[2026-01-08 10:40:43.056900] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:40:43.056982] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:40:43.056993] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:40:43.057008] [p-25344] [t-10152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:42:46.312505] [p-20244] [t-19812] [info] powerrename logger is initialized
+[2026-01-08 10:42:46.312975] [p-20244] [t-19812] [debug] Starting PowerRename with 1 files from pipe/stdin
+[2026-01-08 10:42:46.338621] [p-20244] [t-19812] [info] Theme is now Light
+[2026-01-08 10:42:46.379446] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 10:42:46.379483] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 10:42:46.379488] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 10:42:46.379493] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 10:42:46.379498] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 10:42:46.379503] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 10:42:46.383430] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::CreateShellItemArrayFromPaths Enter
+[2026-01-08 10:42:46.405250] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::CreateShellItemArrayFromPaths Exit
+[2026-01-08 10:42:46.405283] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::EnumerateShellItems Enter
+[2026-01-08 10:42:46.407758] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::EnumerateShellItems Exit
+[2026-01-08 10:42:46.407889] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::SetHandlers Enter
+[2026-01-08 10:42:46.407953] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::SetHandlers Exit
+[2026-01-08 10:42:46.407968] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::ReadSettings Enter
+[2026-01-08 10:42:46.408647] [p-20244] [t-19812] [debug] ReadSettings with persistState = true
+[2026-01-08 10:42:46.408747] [p-20244] [t-19812] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 10:42:46.408761] [p-20244] [t-19812] [debug] Flag 8 set
+[2026-01-08 10:42:46.408769] [p-20244] [t-19812] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 10:42:46.408829] [p-20244] [t-19812] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 10:42:46.408836] [p-20244] [t-19812] [debug] Flag 128 reset
+[2026-01-08 10:42:46.408841] [p-20244] [t-19812] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 10:42:46.408846] [p-20244] [t-19812] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 10:42:46.408852] [p-20244] [t-19812] [debug] Flag 256 set
+[2026-01-08 10:42:46.408857] [p-20244] [t-19812] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 10:42:46.413992] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::ReadSettings Exit
+[2026-01-08 10:42:46.414037] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::InitAutoComplete Enter
+[2026-01-08 10:42:46.414526] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::InitAutoComplete Exit
+[2026-01-08 10:42:46.414532] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:42:46.414539] [p-20244] [t-19812] [debug] Forced renaming - false
+[2026-01-08 10:42:46.414907] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:42:46.450585] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:42:46.450946] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:42:46.451378] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:42:46.451528] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:42:46.451693] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:42:46.451770] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:42:46.897677] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:42:46.897818] [p-20244] [t-19812] [debug] Forced renaming - false
+[2026-01-08 10:42:46.897868] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:42:46.898197] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:42:46.898255] [p-20244] [t-19812] [debug] Forced renaming - false
+[2026-01-08 10:42:46.898290] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:42:49.816209] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:42:49.816385] [p-20244] [t-19812] [debug] Forced renaming - false
+[2026-01-08 10:42:49.816593] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:42:49.819695] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:42:49.820505] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:42:50.092427] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:42:50.092622] [p-20244] [t-19812] [debug] Forced renaming - false
+[2026-01-08 10:42:50.092925] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:42:50.094289] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:42:50.095714] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:42:51.338224] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::Rename Enter
+[2026-01-08 10:42:51.442587] [p-20244] [t-19812] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::OnRenameCompleted Enter
+[2026-01-08 10:42:51.442628] [p-20244] [t-19812] [debug] Renaming completed. Close UI window - false
+[2026-01-08 10:42:51.442634] [p-20244] [t-19812] [trace]     - winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:42:51.442639] [p-20244] [t-19812] [debug] Forced renaming - true
+[2026-01-08 10:42:51.443347] [p-20244] [t-19812] [trace]     - winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:42:51.443583] [p-20244] [t-19812] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::OnRenameCompleted Exit
+[2026-01-08 10:42:51.443591] [p-20244] [t-19812] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::WriteSettings Enter
+[2026-01-08 10:42:51.444350] [p-20244] [t-19812] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::WriteSettings Exit
+[2026-01-08 10:42:51.444359] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::Rename Exit
+[2026-01-08 10:42:51.444450] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:42:51.444513] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:42:51.444523] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:42:51.444540] [p-20244] [t-19812] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:46:51.858765] [p-26568] [t-20508] [info] powerrename logger is initialized
+[2026-01-08 10:46:51.859348] [p-26568] [t-20508] [debug] Starting PowerRename with 1 files from pipe/stdin
+[2026-01-08 10:46:51.891044] [p-26568] [t-20508] [info] Theme is now Light
+[2026-01-08 10:46:51.924664] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 10:46:51.924734] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 10:46:51.924740] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 10:46:51.924746] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 10:46:51.924752] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 10:46:51.924758] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 10:46:51.930119] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::CreateShellItemArrayFromPaths Enter
+[2026-01-08 10:46:51.953487] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::CreateShellItemArrayFromPaths Exit
+[2026-01-08 10:46:51.953531] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::EnumerateShellItems Enter
+[2026-01-08 10:46:51.955696] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::EnumerateShellItems Exit
+[2026-01-08 10:46:51.955800] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::SetHandlers Enter
+[2026-01-08 10:46:51.955869] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::SetHandlers Exit
+[2026-01-08 10:46:51.955888] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::ReadSettings Enter
+[2026-01-08 10:46:51.956640] [p-26568] [t-20508] [debug] ReadSettings with persistState = true
+[2026-01-08 10:46:51.956751] [p-26568] [t-20508] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 10:46:51.956765] [p-26568] [t-20508] [debug] Flag 8 set
+[2026-01-08 10:46:51.956774] [p-26568] [t-20508] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 10:46:51.956849] [p-26568] [t-20508] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 10:46:51.956856] [p-26568] [t-20508] [debug] Flag 128 reset
+[2026-01-08 10:46:51.956862] [p-26568] [t-20508] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 10:46:51.956867] [p-26568] [t-20508] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 10:46:51.956873] [p-26568] [t-20508] [debug] Flag 256 set
+[2026-01-08 10:46:51.956879] [p-26568] [t-20508] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 10:46:51.964146] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::ReadSettings Exit
+[2026-01-08 10:46:51.964248] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::InitAutoComplete Enter
+[2026-01-08 10:46:51.964794] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::InitAutoComplete Exit
+[2026-01-08 10:46:51.964802] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:46:51.964811] [p-26568] [t-20508] [debug] Forced renaming - false
+[2026-01-08 10:46:51.965201] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:46:51.996148] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:46:51.996316] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:46:51.996594] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:46:51.996786] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:46:51.997217] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:46:51.997258] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:46:52.461821] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:46:52.461986] [p-26568] [t-20508] [debug] Forced renaming - false
+[2026-01-08 10:46:52.462050] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:46:52.471158] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:46:52.471272] [p-26568] [t-20508] [debug] Forced renaming - false
+[2026-01-08 10:46:52.471315] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:46:54.781293] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:46:54.781478] [p-26568] [t-20508] [debug] Forced renaming - false
+[2026-01-08 10:46:54.781761] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:46:54.782952] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:46:54.783574] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:46:55.314772] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:46:55.314930] [p-26568] [t-20508] [debug] Forced renaming - false
+[2026-01-08 10:46:55.315145] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:46:55.316447] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:46:55.318294] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:46:55.722670] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:46:55.722759] [p-26568] [t-20508] [debug] Forced renaming - false
+[2026-01-08 10:46:55.722903] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:46:55.726826] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:46:55.727631] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:46:56.031250] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:46:56.031485] [p-26568] [t-20508] [debug] Forced renaming - false
+[2026-01-08 10:46:56.031767] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:46:56.033154] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:46:56.034658] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:46:57.813760] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::Rename Enter
+[2026-01-08 10:46:57.990739] [p-26568] [t-20508] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::OnRenameCompleted Enter
+[2026-01-08 10:46:57.990781] [p-26568] [t-20508] [debug] Renaming completed. Close UI window - false
+[2026-01-08 10:46:57.990787] [p-26568] [t-20508] [trace]     - winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 10:46:57.990792] [p-26568] [t-20508] [debug] Forced renaming - true
+[2026-01-08 10:46:57.991435] [p-26568] [t-20508] [trace]     - winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 10:46:57.991646] [p-26568] [t-20508] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::OnRenameCompleted Exit
+[2026-01-08 10:46:57.991655] [p-26568] [t-20508] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::WriteSettings Enter
+[2026-01-08 10:46:57.992429] [p-26568] [t-20508] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::WriteSettings Exit
+[2026-01-08 10:46:57.992436] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::Rename Exit
+[2026-01-08 10:46:57.992533] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:46:57.992597] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 10:46:57.992652] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 10:46:57.992670] [p-26568] [t-20508] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 16:55:10.231192] [p-11360] [t-15144] [info] powerrename logger is initialized
+[2026-01-08 16:55:10.232188] [p-11360] [t-15144] [debug] Starting PowerRename with 1 files from pipe/stdin
+[2026-01-08 16:55:10.255622] [p-11360] [t-15144] [info] Theme is now Light
+[2026-01-08 16:55:10.316227] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 16:55:10.316258] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 16:55:10.316264] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 16:55:10.316269] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 16:55:10.316274] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 16:55:10.316335] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 16:55:10.322305] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::CreateShellItemArrayFromPaths Enter
+[2026-01-08 16:55:10.366824] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::CreateShellItemArrayFromPaths Exit
+[2026-01-08 16:55:10.366887] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::EnumerateShellItems Enter
+[2026-01-08 16:55:10.371797] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::EnumerateShellItems Exit
+[2026-01-08 16:55:10.371977] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::SetHandlers Enter
+[2026-01-08 16:55:10.372038] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::SetHandlers Exit
+[2026-01-08 16:55:10.372043] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::ReadSettings Enter
+[2026-01-08 16:55:10.372759] [p-11360] [t-15144] [debug] ReadSettings with persistState = true
+[2026-01-08 16:55:10.372920] [p-11360] [t-15144] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 16:55:10.373001] [p-11360] [t-15144] [debug] Flag 8 set
+[2026-01-08 16:55:10.373007] [p-11360] [t-15144] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 16:55:10.373082] [p-11360] [t-15144] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 16:55:10.373090] [p-11360] [t-15144] [debug] Flag 128 reset
+[2026-01-08 16:55:10.373095] [p-11360] [t-15144] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 16:55:10.373100] [p-11360] [t-15144] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 16:55:10.373104] [p-11360] [t-15144] [debug] Flag 256 set
+[2026-01-08 16:55:10.373109] [p-11360] [t-15144] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 16:55:10.376541] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::ReadSettings Exit
+[2026-01-08 16:55:10.376573] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::InitAutoComplete Enter
+[2026-01-08 16:55:10.396814] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::InitAutoComplete Exit
+[2026-01-08 16:55:10.396845] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 16:55:10.396859] [p-11360] [t-15144] [debug] Forced renaming - false
+[2026-01-08 16:55:10.397873] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 16:55:10.425882] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 16:55:10.426079] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 16:55:10.426229] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 16:55:10.426277] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 16:55:10.426311] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 16:55:10.426333] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 16:55:10.974825] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 16:55:10.974981] [p-11360] [t-15144] [debug] Forced renaming - false
+[2026-01-08 16:55:10.975042] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 16:55:10.975644] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 16:55:10.975893] [p-11360] [t-15144] [debug] Forced renaming - false
+[2026-01-08 16:55:10.975946] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 16:55:12.633958] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 16:55:12.634146] [p-11360] [t-15144] [debug] Forced renaming - false
+[2026-01-08 16:55:12.634432] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 16:55:12.635697] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 16:55:12.640402] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 16:55:13.649111] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 16:55:13.649264] [p-11360] [t-15144] [debug] Forced renaming - false
+[2026-01-08 16:55:13.649525] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 16:55:13.650812] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 16:55:13.651619] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 16:55:15.588560] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 16:55:15.588714] [p-11360] [t-15144] [debug] Forced renaming - false
+[2026-01-08 16:55:15.588968] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 16:55:15.592580] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 16:55:15.593306] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 16:55:16.239285] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 16:55:16.239442] [p-11360] [t-15144] [debug] Forced renaming - false
+[2026-01-08 16:55:16.239724] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 16:55:16.242928] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 16:55:16.243705] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 16:55:16.454748] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 16:55:16.454808] [p-11360] [t-15144] [debug] Forced renaming - false
+[2026-01-08 16:55:16.454909] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 16:55:16.455349] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 16:55:16.455849] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 16:55:16.689031] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 16:55:16.689118] [p-11360] [t-15144] [debug] Forced renaming - false
+[2026-01-08 16:55:16.689293] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 16:55:16.690704] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 16:55:16.691417] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 16:55:19.250444] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::Rename Enter
+[2026-01-08 16:55:19.429716] [p-11360] [t-15144] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::OnRenameCompleted Enter
+[2026-01-08 16:55:19.429768] [p-11360] [t-15144] [debug] Renaming completed. Close UI window - false
+[2026-01-08 16:55:19.429774] [p-11360] [t-15144] [trace]     - winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 16:55:19.429779] [p-11360] [t-15144] [debug] Forced renaming - true
+[2026-01-08 16:55:19.430501] [p-11360] [t-15144] [trace]     - winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 16:55:19.430727] [p-11360] [t-15144] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::OnRenameCompleted Exit
+[2026-01-08 16:55:19.430736] [p-11360] [t-15144] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::WriteSettings Enter
+[2026-01-08 16:55:19.432496] [p-11360] [t-15144] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::WriteSettings Exit
+[2026-01-08 16:55:19.432512] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::Rename Exit
+[2026-01-08 16:55:19.432926] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 16:55:19.433047] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 16:55:19.433059] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 16:55:19.433075] [p-11360] [t-15144] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 16:58:27.334624] [p-22464] [t-10648] [info] powerrename logger is initialized
+[2026-01-08 16:58:27.335241] [p-22464] [t-10648] [debug] Starting PowerRename with 1 files from pipe/stdin
+[2026-01-08 16:58:27.365212] [p-22464] [t-10648] [info] Theme is now Light
+[2026-01-08 16:58:27.397317] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 16:58:27.397348] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 16:58:27.397353] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 16:58:27.397358] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 16:58:27.397362] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 16:58:27.397367] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 16:58:27.400992] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::CreateShellItemArrayFromPaths Enter
+[2026-01-08 16:58:27.451316] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::CreateShellItemArrayFromPaths Exit
+[2026-01-08 16:58:27.451394] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::EnumerateShellItems Enter
+[2026-01-08 16:58:27.455720] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::EnumerateShellItems Exit
+[2026-01-08 16:58:27.455964] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SetHandlers Enter
+[2026-01-08 16:58:27.456063] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SetHandlers Exit
+[2026-01-08 16:58:27.456076] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::ReadSettings Enter
+[2026-01-08 16:58:27.457428] [p-22464] [t-10648] [debug] ReadSettings with persistState = true
+[2026-01-08 16:58:27.457681] [p-22464] [t-10648] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 16:58:27.457698] [p-22464] [t-10648] [debug] Flag 8 set
+[2026-01-08 16:58:27.457712] [p-22464] [t-10648] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 16:58:27.457854] [p-22464] [t-10648] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 16:58:27.457975] [p-22464] [t-10648] [debug] Flag 128 reset
+[2026-01-08 16:58:27.457990] [p-22464] [t-10648] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 16:58:27.458001] [p-22464] [t-10648] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 16:58:27.458011] [p-22464] [t-10648] [debug] Flag 256 set
+[2026-01-08 16:58:27.458022] [p-22464] [t-10648] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 16:58:27.465184] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::ReadSettings Exit
+[2026-01-08 16:58:27.465256] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::InitAutoComplete Enter
+[2026-01-08 16:58:27.465812] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::InitAutoComplete Exit
+[2026-01-08 16:58:27.465825] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 16:58:27.465840] [p-22464] [t-10648] [debug] Forced renaming - false
+[2026-01-08 16:58:27.466957] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 16:58:27.499392] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 16:58:27.499572] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 16:58:27.499588] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 16:58:27.499606] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 16:58:27.499617] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 16:58:27.499631] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 16:58:28.007039] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 16:58:28.007117] [p-22464] [t-10648] [debug] Forced renaming - false
+[2026-01-08 16:58:28.007139] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 16:58:28.007327] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 16:58:28.007349] [p-22464] [t-10648] [debug] Forced renaming - false
+[2026-01-08 16:58:28.007362] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 16:58:28.919693] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 16:58:28.919778] [p-22464] [t-10648] [debug] Forced renaming - false
+[2026-01-08 16:58:28.919929] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 16:58:28.920652] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 16:58:28.921073] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 16:58:29.248880] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 16:58:29.248989] [p-22464] [t-10648] [debug] Forced renaming - false
+[2026-01-08 16:58:29.249188] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 16:58:29.250796] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 16:58:29.252206] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 16:58:29.566026] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 16:58:29.566349] [p-22464] [t-10648] [debug] Forced renaming - false
+[2026-01-08 16:58:29.566603] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 16:58:29.568740] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 16:58:29.569849] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 16:58:29.780944] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 16:58:29.781553] [p-22464] [t-10648] [debug] Forced renaming - false
+[2026-01-08 16:58:29.781812] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 16:58:29.783222] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 16:58:29.784963] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 16:58:31.307760] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 16:58:31.307874] [p-22464] [t-10648] [debug] Forced renaming - false
+[2026-01-08 16:58:31.308247] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 16:58:31.309494] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 16:58:31.310290] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 16:58:31.540923] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 16:58:31.541052] [p-22464] [t-10648] [debug] Forced renaming - false
+[2026-01-08 16:58:31.541302] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 16:58:31.543553] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 16:58:31.545062] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 16:58:32.275931] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 16:58:32.276108] [p-22464] [t-10648] [debug] Forced renaming - false
+[2026-01-08 16:58:32.276418] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 16:58:32.278407] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 16:58:32.279034] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 16:58:32.723985] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 16:58:32.724178] [p-22464] [t-10648] [debug] Forced renaming - false
+[2026-01-08 16:58:32.724464] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 16:58:32.725720] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 16:58:32.727067] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 16:58:33.140922] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 16:58:33.141073] [p-22464] [t-10648] [debug] Forced renaming - false
+[2026-01-08 16:58:33.141386] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 16:58:33.143323] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 16:58:33.145137] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 16:58:34.127229] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 16:58:34.127372] [p-22464] [t-10648] [debug] Forced renaming - false
+[2026-01-08 16:58:34.127649] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 16:58:34.130680] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 16:58:34.131398] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 16:58:34.356014] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 16:58:34.356150] [p-22464] [t-10648] [debug] Forced renaming - false
+[2026-01-08 16:58:34.356416] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 16:58:34.357856] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 16:58:34.359778] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 16:58:35.483822] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::Rename Enter
+[2026-01-08 16:58:35.738135] [p-22464] [t-10648] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::OnRenameCompleted Enter
+[2026-01-08 16:58:35.738183] [p-22464] [t-10648] [debug] Renaming completed. Close UI window - false
+[2026-01-08 16:58:35.738189] [p-22464] [t-10648] [trace]     - winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 16:58:35.738194] [p-22464] [t-10648] [debug] Forced renaming - true
+[2026-01-08 16:58:35.738963] [p-22464] [t-10648] [trace]     - winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 16:58:35.739227] [p-22464] [t-10648] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::OnRenameCompleted Exit
+[2026-01-08 16:58:35.739234] [p-22464] [t-10648] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::WriteSettings Enter
+[2026-01-08 16:58:35.740207] [p-22464] [t-10648] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::WriteSettings Exit
+[2026-01-08 16:58:35.740216] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::Rename Exit
+[2026-01-08 16:58:35.740889] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 16:58:35.740989] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 16:58:35.741002] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 16:58:35.741024] [p-22464] [t-10648] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:01:11.638482] [p-5396] [t-6152] [info] powerrename logger is initialized
+[2026-01-08 17:01:11.639909] [p-5396] [t-6152] [debug] Starting PowerRename with 1 files from pipe/stdin
+[2026-01-08 17:01:11.664114] [p-5396] [t-6152] [info] Theme is now Light
+[2026-01-08 17:01:11.696358] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:01:11.696391] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:01:11.696396] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:01:11.696400] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:01:11.696405] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:01:11.696409] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:01:11.700191] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::CreateShellItemArrayFromPaths Enter
+[2026-01-08 17:01:11.745214] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::CreateShellItemArrayFromPaths Exit
+[2026-01-08 17:01:11.745297] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::EnumerateShellItems Enter
+[2026-01-08 17:01:11.746355] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::EnumerateShellItems Exit
+[2026-01-08 17:01:11.746466] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SetHandlers Enter
+[2026-01-08 17:01:11.746521] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SetHandlers Exit
+[2026-01-08 17:01:11.746526] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::ReadSettings Enter
+[2026-01-08 17:01:11.747272] [p-5396] [t-6152] [debug] ReadSettings with persistState = true
+[2026-01-08 17:01:11.747428] [p-5396] [t-6152] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:01:11.747435] [p-5396] [t-6152] [debug] Flag 8 set
+[2026-01-08 17:01:11.747441] [p-5396] [t-6152] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:01:11.747514] [p-5396] [t-6152] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:01:11.747519] [p-5396] [t-6152] [debug] Flag 128 reset
+[2026-01-08 17:01:11.747524] [p-5396] [t-6152] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:01:11.747529] [p-5396] [t-6152] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:01:11.747533] [p-5396] [t-6152] [debug] Flag 256 set
+[2026-01-08 17:01:11.747538] [p-5396] [t-6152] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:01:11.751287] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::ReadSettings Exit
+[2026-01-08 17:01:11.751311] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::InitAutoComplete Enter
+[2026-01-08 17:01:11.751537] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::InitAutoComplete Exit
+[2026-01-08 17:01:11.751542] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:01:11.751548] [p-5396] [t-6152] [debug] Forced renaming - false
+[2026-01-08 17:01:11.751862] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:01:11.777556] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:01:11.777661] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:01:11.777769] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:01:11.777788] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:01:11.777901] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:01:11.777914] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:01:12.204170] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:01:12.204231] [p-5396] [t-6152] [debug] Forced renaming - false
+[2026-01-08 17:01:12.204249] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:01:12.204283] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:01:12.204289] [p-5396] [t-6152] [debug] Forced renaming - false
+[2026-01-08 17:01:12.204294] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:01:14.590822] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:01:14.590886] [p-5396] [t-6152] [debug] Forced renaming - false
+[2026-01-08 17:01:14.591000] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:01:14.591408] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:01:14.591597] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:01:15.055461] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:01:15.055521] [p-5396] [t-6152] [debug] Forced renaming - false
+[2026-01-08 17:01:15.055595] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:01:15.055970] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:01:15.056363] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:01:15.638411] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:01:15.638463] [p-5396] [t-6152] [debug] Forced renaming - false
+[2026-01-08 17:01:15.638542] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:01:15.639611] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:01:15.639790] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:01:15.821276] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:01:15.821328] [p-5396] [t-6152] [debug] Forced renaming - false
+[2026-01-08 17:01:15.821425] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:01:15.822155] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:01:15.822523] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:01:17.449393] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:01:17.449454] [p-5396] [t-6152] [debug] Forced renaming - false
+[2026-01-08 17:01:17.449556] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:01:17.450256] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:01:17.450471] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:01:17.930231] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:01:17.930528] [p-5396] [t-6152] [debug] Forced renaming - false
+[2026-01-08 17:01:17.931712] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:01:17.935559] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:01:17.935863] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:01:18.113796] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:01:18.113840] [p-5396] [t-6152] [debug] Forced renaming - false
+[2026-01-08 17:01:18.113931] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:01:18.114279] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:01:18.114652] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:01:23.399602] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::Rename Enter
+[2026-01-08 17:01:23.508654] [p-5396] [t-6152] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::OnRenameCompleted Enter
+[2026-01-08 17:01:23.508691] [p-5396] [t-6152] [debug] Renaming completed. Close UI window - false
+[2026-01-08 17:01:23.508697] [p-5396] [t-6152] [trace]     - winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:01:23.508702] [p-5396] [t-6152] [debug] Forced renaming - true
+[2026-01-08 17:01:23.509058] [p-5396] [t-6152] [trace]     - winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:01:23.509278] [p-5396] [t-6152] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::OnRenameCompleted Exit
+[2026-01-08 17:01:23.509289] [p-5396] [t-6152] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::WriteSettings Enter
+[2026-01-08 17:01:23.510544] [p-5396] [t-6152] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::WriteSettings Exit
+[2026-01-08 17:01:23.510553] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::Rename Exit
+[2026-01-08 17:01:23.510786] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:01:23.510856] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:01:23.510983] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:01:23.511292] [p-5396] [t-6152] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:02:58.797699] [p-4808] [t-10032] [info] powerrename logger is initialized
+[2026-01-08 17:02:58.798278] [p-4808] [t-10032] [debug] Starting PowerRename with 1 files from pipe/stdin
+[2026-01-08 17:02:58.823895] [p-4808] [t-10032] [info] Theme is now Light
+[2026-01-08 17:02:58.865643] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:02:58.865676] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:02:58.865682] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:02:58.865688] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:02:58.865694] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:02:58.865699] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:02:58.869959] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::CreateShellItemArrayFromPaths Enter
+[2026-01-08 17:02:58.934992] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::CreateShellItemArrayFromPaths Exit
+[2026-01-08 17:02:58.935034] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::EnumerateShellItems Enter
+[2026-01-08 17:02:58.937791] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::EnumerateShellItems Exit
+[2026-01-08 17:02:58.938216] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::SetHandlers Enter
+[2026-01-08 17:02:58.938268] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::SetHandlers Exit
+[2026-01-08 17:02:58.938275] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::ReadSettings Enter
+[2026-01-08 17:02:58.939897] [p-4808] [t-10032] [debug] ReadSettings with persistState = true
+[2026-01-08 17:02:58.940077] [p-4808] [t-10032] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:02:58.940146] [p-4808] [t-10032] [debug] Flag 8 set
+[2026-01-08 17:02:58.940155] [p-4808] [t-10032] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:02:58.940249] [p-4808] [t-10032] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:02:58.940256] [p-4808] [t-10032] [debug] Flag 128 reset
+[2026-01-08 17:02:58.940262] [p-4808] [t-10032] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:02:58.940267] [p-4808] [t-10032] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:02:58.940273] [p-4808] [t-10032] [debug] Flag 256 set
+[2026-01-08 17:02:58.940279] [p-4808] [t-10032] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:02:58.944794] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::ReadSettings Exit
+[2026-01-08 17:02:58.944869] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::InitAutoComplete Enter
+[2026-01-08 17:02:58.945398] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::InitAutoComplete Exit
+[2026-01-08 17:02:58.945405] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:02:58.945413] [p-4808] [t-10032] [debug] Forced renaming - false
+[2026-01-08 17:02:58.945801] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:02:58.969858] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:02:58.970144] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:02:58.971379] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:02:58.972027] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:02:58.972143] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:02:58.972286] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:02:59.473455] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:02:59.473635] [p-4808] [t-10032] [debug] Forced renaming - false
+[2026-01-08 17:02:59.473673] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:02:59.473827] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:02:59.473848] [p-4808] [t-10032] [debug] Forced renaming - false
+[2026-01-08 17:02:59.473867] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:03:00.285301] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::Rename Enter
+[2026-01-08 17:03:00.538663] [p-4808] [t-10032] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::OnRenameCompleted Enter
+[2026-01-08 17:03:00.538741] [p-4808] [t-10032] [debug] Renaming completed. Close UI window - false
+[2026-01-08 17:03:00.538747] [p-4808] [t-10032] [trace]     - winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:03:00.538752] [p-4808] [t-10032] [debug] Forced renaming - true
+[2026-01-08 17:03:00.539609] [p-4808] [t-10032] [trace]     - winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:03:00.539824] [p-4808] [t-10032] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::OnRenameCompleted Exit
+[2026-01-08 17:03:00.539832] [p-4808] [t-10032] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::WriteSettings Enter
+[2026-01-08 17:03:00.540664] [p-4808] [t-10032] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::WriteSettings Exit
+[2026-01-08 17:03:00.540703] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::Rename Exit
+[2026-01-08 17:03:00.541029] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:03:00.541090] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:03:00.541134] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:03:00.541150] [p-4808] [t-10032] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:05:04.477368] [p-13240] [t-6184] [info] powerrename logger is initialized
+[2026-01-08 17:05:04.477849] [p-13240] [t-6184] [debug] Starting PowerRename with 6 files from pipe/stdin
+[2026-01-08 17:05:04.502176] [p-13240] [t-6184] [info] Theme is now Light
+[2026-01-08 17:05:04.541538] [p-13240] [t-6184] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:05:04.541569] [p-13240] [t-6184] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:05:04.541574] [p-13240] [t-6184] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:05:04.541579] [p-13240] [t-6184] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:05:04.541584] [p-13240] [t-6184] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:05:04.541589] [p-13240] [t-6184] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:05:04.545149] [p-13240] [t-6184] [trace] winrt::PowerRenameUI::implementation::MainWindow::CreateShellItemArrayFromPaths Enter
+[2026-01-08 17:05:04.619214] [p-13240] [t-6184] [trace] winrt::PowerRenameUI::implementation::MainWindow::CreateShellItemArrayFromPaths Exit
+[2026-01-08 17:05:04.619258] [p-13240] [t-6184] [trace] winrt::PowerRenameUI::implementation::MainWindow::EnumerateShellItems Enter
+[2026-01-08 17:05:04.639652] [p-13240] [t-6184] [trace] winrt::PowerRenameUI::implementation::MainWindow::EnumerateShellItems Exit
+[2026-01-08 17:05:04.639898] [p-13240] [t-6184] [trace] winrt::PowerRenameUI::implementation::MainWindow::SetHandlers Enter
+[2026-01-08 17:05:04.639978] [p-13240] [t-6184] [trace] winrt::PowerRenameUI::implementation::MainWindow::SetHandlers Exit
+[2026-01-08 17:05:04.639993] [p-13240] [t-6184] [trace] winrt::PowerRenameUI::implementation::MainWindow::ReadSettings Enter
+[2026-01-08 17:05:04.641212] [p-13240] [t-6184] [debug] ReadSettings with persistState = true
+[2026-01-08 17:05:04.641409] [p-13240] [t-6184] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:05:04.641418] [p-13240] [t-6184] [debug] Flag 8 set
+[2026-01-08 17:05:04.641424] [p-13240] [t-6184] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:05:04.641511] [p-13240] [t-6184] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:05:04.641517] [p-13240] [t-6184] [debug] Flag 128 reset
+[2026-01-08 17:05:04.641522] [p-13240] [t-6184] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:05:04.641527] [p-13240] [t-6184] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:05:04.641531] [p-13240] [t-6184] [debug] Flag 256 set
+[2026-01-08 17:05:04.641536] [p-13240] [t-6184] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:05:04.645005] [p-13240] [t-6184] [trace] winrt::PowerRenameUI::implementation::MainWindow::ReadSettings Exit
+[2026-01-08 17:05:04.645074] [p-13240] [t-6184] [trace] winrt::PowerRenameUI::implementation::MainWindow::InitAutoComplete Enter
+[2026-01-08 17:05:04.645485] [p-13240] [t-6184] [trace] winrt::PowerRenameUI::implementation::MainWindow::InitAutoComplete Exit
+[2026-01-08 17:05:04.645548] [p-13240] [t-6184] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:05:04.645557] [p-13240] [t-6184] [debug] Forced renaming - false
+[2026-01-08 17:05:04.646089] [p-13240] [t-6184] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:05:04.666109] [p-13240] [t-6184] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:05:04.666262] [p-13240] [t-6184] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:05:04.666369] [p-13240] [t-6184] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:05:04.666412] [p-13240] [t-6184] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:05:04.666478] [p-13240] [t-6184] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:05:04.666513] [p-13240] [t-6184] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:05:05.314438] [p-13240] [t-6184] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:05:05.314496] [p-13240] [t-6184] [debug] Forced renaming - false
+[2026-01-08 17:05:05.314512] [p-13240] [t-6184] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:05:05.314546] [p-13240] [t-6184] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:05:05.314552] [p-13240] [t-6184] [debug] Forced renaming - false
+[2026-01-08 17:05:05.314557] [p-13240] [t-6184] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:05:36.009805] [p-12668] [t-5784] [info] powerrename logger is initialized
+[2026-01-08 17:05:36.010226] [p-12668] [t-5784] [debug] Starting PowerRename with 1 files from pipe/stdin
+[2026-01-08 17:05:36.033835] [p-12668] [t-5784] [info] Theme is now Light
+[2026-01-08 17:05:36.072177] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:05:36.072207] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:05:36.072212] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:05:36.072217] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:05:36.072221] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:05:36.072226] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:05:36.075868] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::CreateShellItemArrayFromPaths Enter
+[2026-01-08 17:05:36.125960] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::CreateShellItemArrayFromPaths Exit
+[2026-01-08 17:05:36.126022] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::EnumerateShellItems Enter
+[2026-01-08 17:05:36.129654] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::EnumerateShellItems Exit
+[2026-01-08 17:05:36.129790] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::SetHandlers Enter
+[2026-01-08 17:05:36.129836] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::SetHandlers Exit
+[2026-01-08 17:05:36.129841] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::ReadSettings Enter
+[2026-01-08 17:05:36.130257] [p-12668] [t-5784] [debug] ReadSettings with persistState = true
+[2026-01-08 17:05:36.130376] [p-12668] [t-5784] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:05:36.130382] [p-12668] [t-5784] [debug] Flag 8 set
+[2026-01-08 17:05:36.130388] [p-12668] [t-5784] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:05:36.130519] [p-12668] [t-5784] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:05:36.130526] [p-12668] [t-5784] [debug] Flag 128 reset
+[2026-01-08 17:05:36.130531] [p-12668] [t-5784] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:05:36.130535] [p-12668] [t-5784] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:05:36.130540] [p-12668] [t-5784] [debug] Flag 256 set
+[2026-01-08 17:05:36.130544] [p-12668] [t-5784] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:05:36.135257] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::ReadSettings Exit
+[2026-01-08 17:05:36.135321] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::InitAutoComplete Enter
+[2026-01-08 17:05:36.135856] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::InitAutoComplete Exit
+[2026-01-08 17:05:36.135862] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:05:36.135868] [p-12668] [t-5784] [debug] Forced renaming - false
+[2026-01-08 17:05:36.136154] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:05:36.157524] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:05:36.157684] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:05:36.157780] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:05:36.157890] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:05:36.158024] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:05:36.158066] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:05:36.613573] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:05:36.613632] [p-12668] [t-5784] [debug] Forced renaming - false
+[2026-01-08 17:05:36.613653] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:05:36.613690] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:05:36.613696] [p-12668] [t-5784] [debug] Forced renaming - false
+[2026-01-08 17:05:36.613701] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:05:38.335465] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:05:38.335528] [p-12668] [t-5784] [debug] Forced renaming - false
+[2026-01-08 17:05:38.335633] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:05:38.336224] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:05:38.336538] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:05:39.878992] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:05:39.879043] [p-12668] [t-5784] [debug] Forced renaming - false
+[2026-01-08 17:05:39.879124] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:05:39.880465] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:05:39.880699] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:05:40.249301] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:05:40.249363] [p-12668] [t-5784] [debug] Forced renaming - false
+[2026-01-08 17:05:40.249450] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:05:40.249761] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:05:40.250160] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:05:40.917671] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:05:40.917731] [p-12668] [t-5784] [debug] Forced renaming - false
+[2026-01-08 17:05:40.917822] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:05:40.918452] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:05:40.918761] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:05:42.605183] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::Rename Enter
+[2026-01-08 17:05:42.787870] [p-12668] [t-5784] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::OnRenameCompleted Enter
+[2026-01-08 17:05:42.787910] [p-12668] [t-5784] [debug] Renaming completed. Close UI window - false
+[2026-01-08 17:05:42.787921] [p-12668] [t-5784] [trace]     - winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:05:42.787926] [p-12668] [t-5784] [debug] Forced renaming - true
+[2026-01-08 17:05:42.788303] [p-12668] [t-5784] [trace]     - winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:05:42.788481] [p-12668] [t-5784] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::OnRenameCompleted Exit
+[2026-01-08 17:05:42.788494] [p-12668] [t-5784] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::WriteSettings Enter
+[2026-01-08 17:05:42.789238] [p-12668] [t-5784] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::WriteSettings Exit
+[2026-01-08 17:05:42.789245] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::Rename Exit
+[2026-01-08 17:05:42.789330] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:05:42.789395] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:05:42.789405] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:05:42.789421] [p-12668] [t-5784] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:12:37.304718] [p-20264] [t-9756] [info] powerrename logger is initialized
+[2026-01-08 17:12:37.305217] [p-20264] [t-9756] [debug] Starting PowerRename with 1 files from pipe/stdin
+[2026-01-08 17:12:37.346627] [p-20264] [t-9756] [info] Theme is now Light
+[2026-01-08 17:12:37.386197] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:12:37.386230] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:12:37.386235] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:12:37.386240] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:12:37.386246] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:12:37.386250] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:12:37.391443] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::CreateShellItemArrayFromPaths Enter
+[2026-01-08 17:12:37.433347] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::CreateShellItemArrayFromPaths Exit
+[2026-01-08 17:12:37.433393] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::EnumerateShellItems Enter
+[2026-01-08 17:12:37.435504] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::EnumerateShellItems Exit
+[2026-01-08 17:12:37.435620] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::SetHandlers Enter
+[2026-01-08 17:12:37.435658] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::SetHandlers Exit
+[2026-01-08 17:12:37.435663] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::ReadSettings Enter
+[2026-01-08 17:12:37.436180] [p-20264] [t-9756] [debug] ReadSettings with persistState = true
+[2026-01-08 17:12:37.436330] [p-20264] [t-9756] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:12:37.436337] [p-20264] [t-9756] [debug] Flag 8 set
+[2026-01-08 17:12:37.436343] [p-20264] [t-9756] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:12:37.436417] [p-20264] [t-9756] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:12:37.436423] [p-20264] [t-9756] [debug] Flag 128 reset
+[2026-01-08 17:12:37.436428] [p-20264] [t-9756] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:12:37.436433] [p-20264] [t-9756] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:12:37.436438] [p-20264] [t-9756] [debug] Flag 256 set
+[2026-01-08 17:12:37.436442] [p-20264] [t-9756] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:12:37.440147] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::ReadSettings Exit
+[2026-01-08 17:12:37.440216] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::InitAutoComplete Enter
+[2026-01-08 17:12:37.440554] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::InitAutoComplete Exit
+[2026-01-08 17:12:37.440561] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:12:37.440575] [p-20264] [t-9756] [debug] Forced renaming - false
+[2026-01-08 17:12:37.442063] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:12:37.464628] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:12:37.464808] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:12:37.464821] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:12:37.464836] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:12:37.464844] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:12:37.464856] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:12:37.938882] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:12:37.939041] [p-20264] [t-9756] [debug] Forced renaming - false
+[2026-01-08 17:12:37.939101] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:12:37.939334] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:12:37.939473] [p-20264] [t-9756] [debug] Forced renaming - false
+[2026-01-08 17:12:37.939517] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:12:40.481442] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::Rename Enter
+[2026-01-08 17:12:40.714304] [p-20264] [t-9756] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::OnRenameCompleted Enter
+[2026-01-08 17:12:40.714344] [p-20264] [t-9756] [debug] Renaming completed. Close UI window - false
+[2026-01-08 17:12:40.714350] [p-20264] [t-9756] [trace]     - winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:12:40.714355] [p-20264] [t-9756] [debug] Forced renaming - true
+[2026-01-08 17:12:40.715034] [p-20264] [t-9756] [trace]     - winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:12:40.715232] [p-20264] [t-9756] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::OnRenameCompleted Exit
+[2026-01-08 17:12:40.715239] [p-20264] [t-9756] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::WriteSettings Enter
+[2026-01-08 17:12:40.716031] [p-20264] [t-9756] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::WriteSettings Exit
+[2026-01-08 17:12:40.716038] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::Rename Exit
+[2026-01-08 17:12:40.716515] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:12:40.716577] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:12:40.716620] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:12:40.716665] [p-20264] [t-9756] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:26:20.612858] [p-17848] [t-23724] [info] powerrename logger is initialized
+[2026-01-08 17:26:20.614430] [p-17848] [t-23724] [debug] Starting PowerRename with 1 files from pipe/stdin
+[2026-01-08 17:26:20.641786] [p-17848] [t-23724] [info] Theme is now Light
+[2026-01-08 17:26:20.681967] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:26:20.682009] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:26:20.682014] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:26:20.682068] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:26:20.682081] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:26:20.682106] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:26:20.686422] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::CreateShellItemArrayFromPaths Enter
+[2026-01-08 17:26:20.727653] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::CreateShellItemArrayFromPaths Exit
+[2026-01-08 17:26:20.727691] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::EnumerateShellItems Enter
+[2026-01-08 17:26:20.730647] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::EnumerateShellItems Exit
+[2026-01-08 17:26:20.730840] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::SetHandlers Enter
+[2026-01-08 17:26:20.730890] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::SetHandlers Exit
+[2026-01-08 17:26:20.730895] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::ReadSettings Enter
+[2026-01-08 17:26:20.731478] [p-17848] [t-23724] [debug] ReadSettings with persistState = true
+[2026-01-08 17:26:20.731630] [p-17848] [t-23724] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:26:20.731637] [p-17848] [t-23724] [debug] Flag 8 set
+[2026-01-08 17:26:20.731643] [p-17848] [t-23724] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:26:20.731786] [p-17848] [t-23724] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:26:20.731793] [p-17848] [t-23724] [debug] Flag 128 reset
+[2026-01-08 17:26:20.731797] [p-17848] [t-23724] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:26:20.731802] [p-17848] [t-23724] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:26:20.731806] [p-17848] [t-23724] [debug] Flag 256 set
+[2026-01-08 17:26:20.731811] [p-17848] [t-23724] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:26:20.735220] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::ReadSettings Exit
+[2026-01-08 17:26:20.735277] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::InitAutoComplete Enter
+[2026-01-08 17:26:20.735649] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::InitAutoComplete Exit
+[2026-01-08 17:26:20.735667] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:26:20.735674] [p-17848] [t-23724] [debug] Forced renaming - false
+[2026-01-08 17:26:20.736093] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:26:20.765186] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:26:20.765387] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:26:20.765418] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:26:20.765439] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:26:20.765450] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:26:20.765465] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:26:21.284452] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:26:21.284592] [p-17848] [t-23724] [debug] Forced renaming - false
+[2026-01-08 17:26:21.284650] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:26:21.285025] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:26:21.285090] [p-17848] [t-23724] [debug] Forced renaming - false
+[2026-01-08 17:26:21.285128] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:26:22.205988] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::Rename Enter
+[2026-01-08 17:26:22.383265] [p-17848] [t-23724] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::OnRenameCompleted Enter
+[2026-01-08 17:26:22.383308] [p-17848] [t-23724] [debug] Renaming completed. Close UI window - false
+[2026-01-08 17:26:22.383314] [p-17848] [t-23724] [trace]     - winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:26:22.383319] [p-17848] [t-23724] [debug] Forced renaming - true
+[2026-01-08 17:26:22.383972] [p-17848] [t-23724] [trace]     - winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:26:22.384293] [p-17848] [t-23724] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::OnRenameCompleted Exit
+[2026-01-08 17:26:22.384301] [p-17848] [t-23724] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::WriteSettings Enter
+[2026-01-08 17:26:22.386550] [p-17848] [t-23724] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::WriteSettings Exit
+[2026-01-08 17:26:22.386566] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::Rename Exit
+[2026-01-08 17:26:22.388180] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:26:22.388287] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:26:22.388365] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:26:22.388579] [p-17848] [t-23724] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:39:00.792750] [p-21624] [t-22880] [info] powerrename logger is initialized
+[2026-01-08 17:39:00.793205] [p-21624] [t-22880] [debug] Starting PowerRename with 7 files from pipe/stdin
+[2026-01-08 17:39:00.815969] [p-21624] [t-22880] [info] Theme is now Light
+[2026-01-08 17:39:00.851655] [p-21624] [t-22880] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:39:00.851688] [p-21624] [t-22880] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:39:00.851693] [p-21624] [t-22880] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:39:00.851697] [p-21624] [t-22880] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:39:00.851702] [p-21624] [t-22880] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:39:00.851706] [p-21624] [t-22880] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:39:00.855379] [p-21624] [t-22880] [trace] winrt::PowerRenameUI::implementation::MainWindow::CreateShellItemArrayFromPaths Enter
+[2026-01-08 17:39:00.934625] [p-21624] [t-22880] [trace] winrt::PowerRenameUI::implementation::MainWindow::CreateShellItemArrayFromPaths Exit
+[2026-01-08 17:39:00.934697] [p-21624] [t-22880] [trace] winrt::PowerRenameUI::implementation::MainWindow::EnumerateShellItems Enter
+[2026-01-08 17:39:00.955026] [p-21624] [t-22880] [trace] winrt::PowerRenameUI::implementation::MainWindow::EnumerateShellItems Exit
+[2026-01-08 17:39:00.955251] [p-21624] [t-22880] [trace] winrt::PowerRenameUI::implementation::MainWindow::SetHandlers Enter
+[2026-01-08 17:39:00.955328] [p-21624] [t-22880] [trace] winrt::PowerRenameUI::implementation::MainWindow::SetHandlers Exit
+[2026-01-08 17:39:00.955342] [p-21624] [t-22880] [trace] winrt::PowerRenameUI::implementation::MainWindow::ReadSettings Enter
+[2026-01-08 17:39:00.956264] [p-21624] [t-22880] [debug] ReadSettings with persistState = true
+[2026-01-08 17:39:00.956402] [p-21624] [t-22880] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:39:00.956410] [p-21624] [t-22880] [debug] Flag 8 set
+[2026-01-08 17:39:00.956416] [p-21624] [t-22880] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:39:00.956493] [p-21624] [t-22880] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:39:00.956499] [p-21624] [t-22880] [debug] Flag 128 reset
+[2026-01-08 17:39:00.956503] [p-21624] [t-22880] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:39:00.956508] [p-21624] [t-22880] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:39:00.956513] [p-21624] [t-22880] [debug] Flag 256 set
+[2026-01-08 17:39:00.956517] [p-21624] [t-22880] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:39:00.960286] [p-21624] [t-22880] [trace] winrt::PowerRenameUI::implementation::MainWindow::ReadSettings Exit
+[2026-01-08 17:39:00.960330] [p-21624] [t-22880] [trace] winrt::PowerRenameUI::implementation::MainWindow::InitAutoComplete Enter
+[2026-01-08 17:39:00.960854] [p-21624] [t-22880] [trace] winrt::PowerRenameUI::implementation::MainWindow::InitAutoComplete Exit
+[2026-01-08 17:39:00.960859] [p-21624] [t-22880] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:39:00.960912] [p-21624] [t-22880] [debug] Forced renaming - false
+[2026-01-08 17:39:00.961125] [p-21624] [t-22880] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:39:00.990665] [p-21624] [t-22880] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:39:00.990960] [p-21624] [t-22880] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:39:00.990977] [p-21624] [t-22880] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:39:00.990994] [p-21624] [t-22880] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:39:00.991003] [p-21624] [t-22880] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:39:00.991017] [p-21624] [t-22880] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:39:01.654086] [p-21624] [t-22880] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:39:01.654143] [p-21624] [t-22880] [debug] Forced renaming - false
+[2026-01-08 17:39:01.654159] [p-21624] [t-22880] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:39:01.654193] [p-21624] [t-22880] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:39:01.654198] [p-21624] [t-22880] [debug] Forced renaming - false
+[2026-01-08 17:39:01.654204] [p-21624] [t-22880] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:39:22.119147] [p-22144] [t-22148] [info] powerrename logger is initialized
+[2026-01-08 17:39:22.119866] [p-22144] [t-22148] [debug] Starting PowerRename with 1 files from pipe/stdin
+[2026-01-08 17:39:22.146435] [p-22144] [t-22148] [info] Theme is now Light
+[2026-01-08 17:39:22.178786] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:39:22.178817] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:39:22.178822] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:39:22.178827] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:39:22.178831] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:39:22.178836] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:39:22.182650] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::CreateShellItemArrayFromPaths Enter
+[2026-01-08 17:39:22.229406] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::CreateShellItemArrayFromPaths Exit
+[2026-01-08 17:39:22.229469] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::EnumerateShellItems Enter
+[2026-01-08 17:39:22.232492] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::EnumerateShellItems Exit
+[2026-01-08 17:39:22.232636] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::SetHandlers Enter
+[2026-01-08 17:39:22.232676] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::SetHandlers Exit
+[2026-01-08 17:39:22.232682] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::ReadSettings Enter
+[2026-01-08 17:39:22.233096] [p-22144] [t-22148] [debug] ReadSettings with persistState = true
+[2026-01-08 17:39:22.233211] [p-22144] [t-22148] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:39:22.233218] [p-22144] [t-22148] [debug] Flag 8 set
+[2026-01-08 17:39:22.233224] [p-22144] [t-22148] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:39:22.233343] [p-22144] [t-22148] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:39:22.233350] [p-22144] [t-22148] [debug] Flag 128 reset
+[2026-01-08 17:39:22.233355] [p-22144] [t-22148] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:39:22.233359] [p-22144] [t-22148] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Enter
+[2026-01-08 17:39:22.233364] [p-22144] [t-22148] [debug] Flag 256 set
+[2026-01-08 17:39:22.233369] [p-22144] [t-22148] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::UpdateFlag Exit
+[2026-01-08 17:39:22.237707] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::ReadSettings Exit
+[2026-01-08 17:39:22.237737] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::InitAutoComplete Enter
+[2026-01-08 17:39:22.238003] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::InitAutoComplete Exit
+[2026-01-08 17:39:22.238009] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:39:22.238015] [p-22144] [t-22148] [debug] Forced renaming - false
+[2026-01-08 17:39:22.238692] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:39:22.266529] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:39:22.266826] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:39:22.267032] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:39:22.267056] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:39:22.267066] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:39:22.267079] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:39:22.602265] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::Rename Enter
+[2026-01-08 17:39:22.721198] [p-22144] [t-22148] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:39:22.721236] [p-22144] [t-22148] [debug] Forced renaming - false
+[2026-01-08 17:39:22.721250] [p-22144] [t-22148] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:39:22.721513] [p-22144] [t-22148] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:39:22.721527] [p-22144] [t-22148] [debug] Forced renaming - false
+[2026-01-08 17:39:22.721535] [p-22144] [t-22148] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:39:22.746592] [p-22144] [t-22148] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::OnRenameCompleted Enter
+[2026-01-08 17:39:22.746633] [p-22144] [t-22148] [debug] Renaming completed. Close UI window - false
+[2026-01-08 17:39:22.746640] [p-22144] [t-22148] [trace]     - winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Enter
+[2026-01-08 17:39:22.746644] [p-22144] [t-22148] [debug] Forced renaming - true
+[2026-01-08 17:39:22.747112] [p-22144] [t-22148] [trace]     - winrt::PowerRenameUI::implementation::MainWindow::SearchReplaceChanged Exit
+[2026-01-08 17:39:22.747683] [p-22144] [t-22148] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::OnRenameCompleted Exit
+[2026-01-08 17:39:22.747697] [p-22144] [t-22148] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::WriteSettings Enter
+[2026-01-08 17:39:22.748587] [p-22144] [t-22148] [trace]   - winrt::PowerRenameUI::implementation::MainWindow::WriteSettings Exit
+[2026-01-08 17:39:22.748594] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::Rename Exit
+[2026-01-08 17:39:22.748908] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:39:22.749011] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
+[2026-01-08 17:39:22.749084] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Enter
+[2026-01-08 17:39:22.749117] [p-22144] [t-22148] [trace] winrt::PowerRenameUI::implementation::MainWindow::OnRegExCompleted Exit
